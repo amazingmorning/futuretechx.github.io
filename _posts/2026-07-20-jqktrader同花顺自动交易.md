@@ -4,7 +4,7 @@ title:      "jqktrader 同花顺自动程序化交易"
 subtitle:   "基于pywinauto的按键精灵式交易"
 date:       2026-07-20 16:00:00
 author:     "Me"
-header-img: "img/post-bg-2015.jpg"
+header-img: "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=programmatic%20trading%20python%20code%20stock%20charts%20automation%20software%20interface%20dark&image_size=landscape_16_9"
 tags:
     - 量化交易
     - Python

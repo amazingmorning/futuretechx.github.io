@@ -1,7 +1,7 @@
 # Site settings
 title: 神奇的早起
 SEOTitle: 早起 | 神奇的早起
-header-img: img/home-bg.jpg
+header-img: "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=futuristic%20quantitative%20trading%20dashboard%20with%20stock%20charts%20and%20data%20visualization%20dark%20blue%20background%20professional&image_size=landscape_16_9"
 email: mjc1818@qq.com
 description: "爱理财的程序员"
 keyword: "程序员，量化，读书，早起，复盘"

@@ -4,7 +4,7 @@ title:      "autotrader 量化交易系统"
 subtitle:   "基于同花顺客户端的自动化交易系统"
 date:       2026-07-20 15:00:00
 author:     "Me"
-header-img: "img/post-bg-2015.jpg"
+header-img: "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=automated%20trading%20system%20robot%20hand%20stock%20market%20futuristic%20technology%20dark%20theme&image_size=landscape_16_9"
 tags:
     - 量化交易
     - Go
